@@ -27,9 +27,6 @@ LAlt & F10::SendInput {Volume_Mute}
 LAlt & F11::SendInput {Volume_Down}
 LAlt & F12::SendInput {Volume_Up}
 
-
-#IfWinActive
-
 ; --------------------------------------------------------------
 ; Other key
 ; --------------------------------------------------------------
