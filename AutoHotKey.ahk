@@ -34,4 +34,4 @@ LAlt & F12::SendInput {Volume_Up}
 ; Other key
 ; --------------------------------------------------------------
 
-LAlt & BackSpace::SendInput {Delete} 
+LAlt & Backspace::SendInput {Delete} 
